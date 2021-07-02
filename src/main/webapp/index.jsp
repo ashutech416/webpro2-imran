@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<title>DOCKER Tutorial</title>
 <body>
 
 <h1>This is a heading</h1>
